@@ -1,7 +1,7 @@
 ###  <a href="https://www.youtube.com/watch?v=Pk-ON-7RtEY" target="_blank" rel="noreferrer"> Dance with Doge ✌
 </a>
 <div align="center">
-	<img src="https://github.com/kangbojk/kangbojk/raw/main/githubv2.gif" alt="Hello. I'm Kangbo.">
+	<img src="https://github.com/kangbojk/kangbojk/raw/main/dogedance.gif" alt="Hello. I'm Kangbo.">
 </div>
 
 
